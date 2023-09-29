@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-zhao-82a2ab245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-zhao-82a2ab245/" height="30" width="40" /></a>
 <a href="https://instagram.com/themichaelzhao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themichaelzhao" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3swmr8pgxahocccteimwlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3swmr8pgxahocccteimwlg" height="30" width="40" /></a>
+<a href="https://discord.gg/magicallord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="magicallord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
