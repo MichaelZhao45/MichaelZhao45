@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Pokemon App Project**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development And React**
 
 - 📫 How to reach me **Michaelzhao4567@gmail.com**
 
