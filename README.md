@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Michael Zhao</h1>
-<h3 align="center">I am a sophomore Computer Science Student at the University of Western Ontario</h3>
+<h3 align="center">I am a senior Computer Science Student at the University of Western Ontario</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelzhao45&label=Profile%20views&color=0e75b6&style=flat" alt="michaelzhao45" /> </p>
 
-- 🔭 I’m currently working on a ****
+- 🔭 I’m currently working on a **Home Lab + Active Directory Project**
 
-- 🌱 I’m currently learning **Web Development And React**
+- 🌱 I’m currently learning **System Administration**
 
 - 📫 How to reach me **Michaelzhao4567@gmail.com**
 
-- ⚡ Fun fact **I Run Marathons!**
+- ⚡ Fun fact **I have a minor in Game Development!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
