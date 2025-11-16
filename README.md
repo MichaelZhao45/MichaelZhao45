@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelzhao45&label=Profile%20views&color=0e75b6&style=flat" alt="michaelzhao45" /> </p>
 
-- 🔭 I’m currently working on a **Home Lab + Active Directory Project**
+- 🔭 I’m currently **Studying for COMPTIA A+ Certificate**
 
-- 🌱 I’m currently learning **System Administration**
+- 🌱 I’m currently learning **Information Technology**
 
 - 📫 How to reach me **Michaelzhao4567@gmail.com**
 
